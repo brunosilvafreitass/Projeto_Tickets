@@ -1,0 +1,12 @@
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.deps.json
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.dll
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.pdb
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.AssemblyInfoInputs.cache
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.AssemblyInfo.cs
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.csproj.CoreCompileInputs.cache
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.sourcelink.json
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.dll
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/refint/Ticket.Core.dll
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.pdb
+/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/ref/Ticket.Core.dll
