@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "33HbpsZ8bPA=",
+  "dgSpecHash": "salmYoWRVWs=",
   "success": true,
-  "projectFilePath": "/media/bruno/Novo volume/PROJETOS_C#/Ticket_dotnet_9/Ticket.Api/Ticket.Api.csproj",
+  "projectFilePath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj",
   "expectedPackageFiles": [
-    "/home/bruno/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "/home/bruno/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
-    "/home/bruno/.nuget/packages/scalar.aspnetcore/2.1.7/scalar.aspnetcore.2.1.7.nupkg.sha512"
+    "/home/ti/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/home/ti/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/ti/.nuget/packages/scalar.aspnetcore/2.1.7/scalar.aspnetcore.2.1.7.nupkg.sha512"
   ],
   "logs": []
 }
