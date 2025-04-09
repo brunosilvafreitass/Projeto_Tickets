@@ -9,6 +9,7 @@ builder.AddDataContexts();
 // builder.AddCrossOrigin();
 builder.AddDocumentationSwagger();
 // builder.AddServices();
+builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
@@ -19,6 +20,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.MapSwagger();
 
+    app.MapOpenApi();
     app.MapScalarApiReference();
 }
 
