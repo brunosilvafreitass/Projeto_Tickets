@@ -1,5 +1,3 @@
-using System;
-using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Ticket.Api.Common.Api;
 using Ticket.Api.Models;
 
