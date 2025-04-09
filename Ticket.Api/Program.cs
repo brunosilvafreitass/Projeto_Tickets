@@ -20,10 +20,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.MapSwagger();
 
+<<<<<<< HEAD
+=======
+
+    //Scalar documentation
+>>>>>>> 49e83af (.)
     app.MapOpenApi();
     app.MapScalarApiReference();
 }
 
 app.MapEndpoints();
+
 
 app.Run();

@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {}
+    "E:\\PROJETOS_C#\\Ticket_dotnet_9\\Ticket.Core\\Ticket.Core.csproj": {}
   },
   "projects": {
-    "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {
+    "E:\\PROJETOS_C#\\Ticket_dotnet_9\\Ticket.Core\\Ticket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
+        "projectUniqueName": "E:\\PROJETOS_C#\\Ticket_dotnet_9\\Ticket.Core\\Ticket.Core.csproj",
         "projectName": "Ticket.Core",
-        "projectPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
-        "packagesPath": "/home/ti/.nuget/packages/",
-        "outputPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/",
+        "projectPath": "E:\\PROJETOS_C#\\Ticket_dotnet_9\\Ticket.Core\\Ticket.Core.csproj",
+        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJETOS_C#\\Ticket_dotnet_9\\Ticket.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/ti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -60,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
