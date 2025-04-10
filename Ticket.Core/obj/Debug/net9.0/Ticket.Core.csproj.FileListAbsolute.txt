@@ -10,3 +10,15 @@
 /home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/refint/Ticket.Core.dll
 /home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.pdb
 /home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/ref/Ticket.Core.dll
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.deps.json
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.dll
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/bin/Debug/net9.0/Ticket.Core.pdb
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.GeneratedMSBuildEditorConfig.editorconfig
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.AssemblyInfoInputs.cache
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.AssemblyInfo.cs
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.csproj.CoreCompileInputs.cache
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.sourcelink.json
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.dll
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/refint/Ticket.Core.dll
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/Ticket.Core.pdb
+/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/Debug/net9.0/ref/Ticket.Core.dll

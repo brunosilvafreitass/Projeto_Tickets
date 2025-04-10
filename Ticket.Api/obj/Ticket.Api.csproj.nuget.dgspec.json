@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj": {}
+    "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj": {}
   },
   "projects": {
-    "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj": {
+    "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj",
+        "projectUniqueName": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj",
         "projectName": "Ticket.Api",
-        "projectPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj",
-        "packagesPath": "/home/ti/.nuget/packages/",
-        "outputPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Api/obj/",
+        "projectPath": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Api/Ticket.Api.csproj",
+        "packagesPath": "/home/bruno/.nuget/packages/",
+        "outputPath": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ti/.nuget/NuGet/NuGet.Config"
+          "/home/bruno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -27,8 +27,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {
-                "projectPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj"
+              "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {
+                "projectPath": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj"
               }
             }
           }
@@ -101,17 +101,17 @@
         }
       }
     },
-    "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {
+    "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
+        "projectUniqueName": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
         "projectName": "Ticket.Core",
-        "projectPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
-        "packagesPath": "/home/ti/.nuget/packages/",
-        "outputPath": "/home/ti/Documentos/Projeto_Tickets/Ticket.Core/obj/",
+        "projectPath": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/Ticket.Core.csproj",
+        "packagesPath": "/home/bruno/.nuget/packages/",
+        "outputPath": "/media/bruno/Novo volume/PROJETOS_C#/Projeto_Tickets/Ticket.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ti/.nuget/NuGet/NuGet.Config"
+          "/home/bruno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

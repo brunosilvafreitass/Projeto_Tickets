@@ -1,4 +1,5 @@
 using Ticket.Api.Common.Api;
+using Ticket.Api.Endpoints.Identity;
 using Ticket.Api.Models;
 
 namespace Ticket.Api.Endpoints;
@@ -12,11 +13,17 @@ public static class Endpoint
         endpoints.MapGroup("/")
             .WithTags("Health Check")
             .WithName("HealthCheck")
-            .MapGet("/", () => Results.Ok("Healthy"));
+            .MapGet("/", () => Results.Ok("Healthy"))
+            .RequireAuthorization();
 
         endpoints.MapGroup("v1/identity")
             .WithTags("Identity")
             .MapIdentityApi<User>();
+
+        endpoints.MapGroup("v1/identity")
+            .WithTags("Identity")
+            .MapEndpoint<LogoutIdentityEndpoint>()
+            .MapEndpoint<GetIdentityRolesEndpoint>();
     }
     private static IEndpointRouteBuilder MapEndpoint<TEndpoint>(this IEndpointRouteBuilder app)
     where TEndpoint : IEndpoint
