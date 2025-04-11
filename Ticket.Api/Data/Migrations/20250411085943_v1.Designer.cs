@@ -12,7 +12,7 @@ using Ticket.Api.Data;
 namespace Ticket.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250408165425_v1")]
+    [Migration("20250411085943_v1")]
     partial class v1
     {
         /// <inheritdoc />

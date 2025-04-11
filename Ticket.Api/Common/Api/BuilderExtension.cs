@@ -1,4 +1,3 @@
-using System;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Ticket.Api.Data;
@@ -37,9 +36,13 @@ public static class BuilderExtension
             .AddDbContext<AppDbContext>(x => { x.UseSqlServer(Configuration.ConnectionString); });
 
         builder.Services
-            .AddIdentityCore<User>()
+            .AddIdentityCore<User>(x => x.SignIn.RequireConfirmedAccount = true)
+            .AddDefaultTokenProviders()
             .AddRoles<IdentityRole<long>>()
             .AddEntityFrameworkStores<AppDbContext>()
             .AddApiEndpoints();
+
+        // builder.Services.AddIdentity<User, IdentityRole<long>>(x => x.SignIn.RequireConfirmedAccount = true)
+        //     .AddEntityFrameworkStores<AppDbContext>();
     }
 }
